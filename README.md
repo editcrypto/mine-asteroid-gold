@@ -1,0 +1,1 @@
+# mine-asteroid-gold
